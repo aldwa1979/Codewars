@@ -3,3 +3,4 @@ public class CustomMath {
         return a * b;
     }
 }
+ 
